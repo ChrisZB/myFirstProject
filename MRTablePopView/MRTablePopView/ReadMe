@@ -1,0 +1,5 @@
+
+
+                                            README
+
+MRTablePopView是封装的一个通过传入需要展示项来展示列表类得选择弹框，通过Block回调所选择项。

@@ -15,6 +15,7 @@
 		833D94C81D9A04FE0007A55C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 833D94C71D9A04FE0007A55C /* Assets.xcassets */; };
 		833D94CB1D9A04FE0007A55C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 833D94C91D9A04FE0007A55C /* LaunchScreen.storyboard */; };
 		833D94D41D9A05B30007A55C /* MRTablePopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 833D94D31D9A05B30007A55C /* MRTablePopView.m */; };
+		C757C1F71E77F09E0042517B /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = C757C1F61E77F09E0042517B /* ReadMe */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		833D94CC1D9A04FE0007A55C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		833D94D21D9A05B30007A55C /* MRTablePopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRTablePopView.h; sourceTree = "<group>"; };
 		833D94D31D9A05B30007A55C /* MRTablePopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRTablePopView.m; sourceTree = "<group>"; };
+		C757C1F61E77F09E0042517B /* ReadMe */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				833D94BC1D9A04FE0007A55C /* main.m */,
+				C757C1F61E77F09E0042517B /* ReadMe */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C757C1F71E77F09E0042517B /* ReadMe in Resources */,
 				833D94CB1D9A04FE0007A55C /* LaunchScreen.storyboard in Resources */,
 				833D94C81D9A04FE0007A55C /* Assets.xcassets in Resources */,
 				833D94C61D9A04FE0007A55C /* Main.storyboard in Resources */,
